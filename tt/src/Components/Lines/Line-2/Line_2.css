@@ -1,0 +1,24 @@
+
+@media (max-width: 375px) {
+
+    
+    .container.text-center.d-flex.justify-content-center.l2 {
+        padding-left: 0px;
+    }
+
+    .line1-kampel.mt-3.mb-4.l2 {
+        width: 95%;
+    }
+
+    .col.align-self-center.l2 {
+        background-color: greenyellow;
+    }
+
+    .btn.custom-btn.l2 {
+        margin-bottom: 10px;
+    }
+
+    .col.display-4.l2 {
+        margin-left: 0px;
+    }
+}

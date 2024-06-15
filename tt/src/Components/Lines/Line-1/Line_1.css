@@ -1,0 +1,130 @@
+/* Default styles for larger screens */
+.custom-btn {
+    font-size: x-large;
+    padding: 3px 10px;
+    background-color: #32312d;
+}
+
+.bi.bi-bus-front-fill {
+    color: blanchedalmond;
+}
+
+
+.btn.custom-btn:hover {
+    background-color: #5a5a56;
+    color: black;
+}
+
+.row.w-75 {
+    margin-top: 2.5%
+}
+
+.row.w-75.lower {
+    margin-top: 2.5%;
+    margin-bottom: 5%;
+}
+
+.d-flex.justify-content-center.display-1 {
+    /* margin-top: 3%; */
+    padding-top: 2%;
+}
+
+.line1-kampel.mt-3.mb-4.l1 {
+    width: 93%;
+}
+
+
+@media (max-width: 375px) {
+
+    .custom-btn {
+        font-size: large;
+        padding: 3px 10px;
+    }
+
+    .row.w-50 {
+        width: 100% !important;
+        margin-right: 5%;
+    }
+
+    .col.align-self-center {
+        max-width: 10%;
+    }
+
+    .outer {
+        margin-top: 7.5%;
+    }
+
+    .d-flex.justify-content-center.display-1 {
+        margin-top: 10px;
+    }
+
+    .container.text-center.d-flex.justify-content-center {
+        /* padding-left: 0px; */
+        padding-right: 0px;
+    }
+
+    .container.text-center.d-flex.justify-content-center.lower.l1 {
+        margin-top: 2.5%;
+    }
+
+    .bi.bi-bus-front-fill {
+        font-size: large;
+    }
+
+    .btn.custom-btn {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .list-group mb-5.custom {
+        background-color: teal;
+    }
+
+    .container.text-center.d-flex.justify-content-center {
+        width: 100%;
+    }
+
+    .row.w-75.l1 {
+        width: 100% !important;
+        /* max-height: 50px; */
+    }
+
+    .col.display-4.l1 {
+        padding: 0px;
+        font-size: x-large;
+        max-width: min-content;
+    }
+
+    .col.l1 {
+        max-width: min-content;
+    }
+
+    .display-4.bi.bi-arrow-right.l1 {
+        max-width: min-content;
+    }
+
+    .col.display-4.l1 {
+        /* padding-right: 10px; */
+        margin-right: 20px;
+        margin-left: 10px;
+        text-align: center;
+        align-items: center;
+        margin-top: 4px;
+    }
+
+    .col.align-self-center.l1 {
+        
+        margin-bottom: 100px;
+    }
+
+    .container.text-center.d-flex.justify-content-center.l1 {
+        /* max-height: fit-content; */
+        
+        max-height: 55px;
+    }
+
+    .container.text-center.d-flex.justify-content-center.lower.l1 {
+        padding-bottom: 75px;
+    }
+
+}

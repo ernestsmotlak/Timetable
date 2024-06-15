@@ -1,0 +1,28 @@
+.container.d-flex.justify-content-center.mt-3 {
+    padding-bottom: 2.5%;
+}
+
+@media (max-width: 576px) {
+    .col.display-4.l2 {
+        /* background-color: aqua; */
+        margin-left: 2%;
+        max-width: min-content;
+        font-size: x-large;
+        margin-top: 1.5%;
+    }
+
+    .col.display-4.l2.lower {
+        font-size: x-large;
+        padding-left: 5%;
+        margin-top: 1.5%;
+    }
+
+    .col.l2 {
+        max-width: min-content;
+    }
+
+    .container.d-flex.justify-content-center.mt-3 {
+        padding-bottom: 0px;
+        width: 100%;
+    }
+}

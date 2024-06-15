@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+# User-specific files
+.npmrc
+.pnpm-lock.yaml
+.yarn/*
+# Compiled files
+dist/
+build/
+# Cache files
+.cache/
+.eslintcache
+# IDE files
+*.iml
+*.idea/
+.vscode/
+# macOS
+.DS_Store
+# Ignore config.js
+config.js

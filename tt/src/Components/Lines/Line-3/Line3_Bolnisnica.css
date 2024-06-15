@@ -1,0 +1,22 @@
+.col.display-4.l3 {
+    white-space: nowrap;
+}
+
+.line1-kampel.mt-3.mb-4.l3 {
+    /* background-color: darkseagreen; */
+}
+
+.col-md-6.l3-bolnisnica {
+    text-align: center;
+    color: #958870;
+}
+
+.mb-3.display-6.l3-bolnisnica {
+    font-weight: 400;
+}
+
+@media (max-width: 576px) {
+    .line1-kampel.mt-3.mb-4.l3 {
+        /* background-color: aqua; */
+    }
+}

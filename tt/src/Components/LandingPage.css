@@ -1,0 +1,23 @@
+.form-select.form-select-lg.mb-17.w-25.border.border-black.mt-3 {
+    margin: 0 auto;
+}
+
+.spanLandingPage {
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+@media (max-width: 576px) {
+    .spanLandingPage {
+        font-size: x-large;
+        margin: 0 auto;
+        margin-left: 20%;
+    }
+
+    .form-select.form-select-lg.mb-17.w-50.border.border-black.mt-3.ms-5 {
+        margin: 0 auto !important;
+        margin-top: 5% !important; 
+    }
+}

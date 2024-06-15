@@ -1,0 +1,57 @@
+/* Default styles for larger screens */
+.container-fluid {
+    height: 90px;
+    background-color: #32312d;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.navbar.sticky-top.bg-body-tertiary {
+    padding: 0;
+}
+
+.btn.custom-btn-navbar {
+    font-size: xxx-large;
+    padding: 0;
+    color: blanchedalmond;
+}
+
+.button-place.btn.btn-dark {
+    font-size: xx-large;
+}
+
+
+.navbar-brand.fs-2.fw-bold {
+    color: blanchedalmond;
+    position: relative;
+    text-decoration: none;
+    text-shadow: 3px 3px 0 black;
+}
+
+.navbar-brand.fs-2.fw-bold::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 2px;
+    height: 5px;
+    background-image: linear-gradient(to right, blanchedalmond, blanchedalmond);
+}
+
+/* Media query for smaller screens, adjust as needed */
+@media (max-width: 576px) {
+    .container-fluid {
+        height: 80px;
+    }
+
+    .navbar-brand.fs-2.fw-bold {
+        color: blanchedalmond;
+        font-size: 1.3rem !important;
+        max-width: 77.5%;
+        margin-bottom: 1%;
+    }
+
+    .navbar-brand.fs-1.fw-bold {
+        margin-right: 0px;
+    }
+
+}

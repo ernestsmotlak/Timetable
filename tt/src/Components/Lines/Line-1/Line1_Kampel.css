@@ -1,0 +1,153 @@
+:root {
+    --color-primary: #FDF7E4;
+    --color-secondary: #FAEED1;
+    --color-tertiary: #DED0B6;
+    --color-quaternary: #BBAB8C;
+}
+
+
+.custom-div-l1-Kampel {
+    overflow: hidden;
+    white-space: nowrap;
+    color: #C5B89E;
+}
+
+.custom-ul {
+    width: 25%;
+}
+
+body {
+    background: rgb(253, 247, 228);
+    background: radial-gradient(circle, rgba(253, 247, 228, 1) 0%, rgba(250, 238, 209, 1) 33%, rgba(222, 208, 182, 1) 66%, rgba(187, 171, 140, 1) 100%);
+
+}
+
+.line1-kampel {
+    background-color: var(--color-secondary);
+    margin: 0 auto;
+    height: fit-content;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    border-radius: 7.5px;
+    width: 60%;
+}
+
+.col.display-4 {
+    color: #958870;
+    font-weight: 400;
+}
+
+.col {
+    color: #958870;
+}
+
+.col.display-6.text-truncate {
+    color: #a8997e;
+}
+
+.col.display-6.custom-div-l1-Kampel {
+    color: #a8997e;
+}
+
+.list-group-item.custom-il-line1 {
+    background-color: #fdf8ec;
+
+}
+
+.row.custom {
+    width: 85%;
+}
+
+.list-group.ms-auto.custom {
+    width: 30%;
+}
+
+.list-group.mb-5.custom {
+    width: 30%;
+}
+
+.d-flex.justify-content-center.display-1 {
+    color: #32312d;
+}
+
+/* styles for select */
+
+.form-select {
+    background-color: #fdf8ec;
+    height: 55px;
+    width: fit-content;
+    font-size: large;
+
+}
+
+.form-select:focus {
+    /* Add your styles for the focused state */
+    border-color: #32312d;
+    /* Example border color for focus state */
+    box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+    /* Example box shadow for focus state */
+}
+
+.container.text-center.d-flex.justify-content-center.lower.l1 {
+    padding-bottom: 3%
+}
+
+.line1-kampel.mt-3.mb-4.l1 {
+    width: 60%;
+}
+
+
+
+@media (max-width: 576px) {
+
+    .line1-kampel.mt-3.mb-4.l1 {
+        width: 93%;
+    }
+
+    .row.custom {
+        width: 100%;
+    }
+
+    .col.display-6.text-truncate {
+        font-size: large;
+    }
+
+    .col.display-6.custom-div-l1-Kampel {
+        font-size: large;
+    }
+
+    .form-select {
+        max-width: 100%;
+        font-size: small;
+        max-height: 75%;
+        font-family: Arial, Helvetica, sans-serif;
+        /* changed the font so that the text fits on mobile */
+    }
+
+    .list-group-item.custom-il-line1 {}
+
+    .list-group.ms-auto.custom {
+        width: 75%;
+    }
+
+    .list-group.mb-5.custom {
+        width: 75%;
+    }
+
+    .text-end.me-3 {
+        font-size: medium;
+    }
+
+    .text-start.ms-3 {
+        font-size: medium;
+    }
+
+    .container.text-center.d-flex.justify-content-center.lower.l1 {
+        /* background-color: black; */
+        padding-bottom: 20%;
+    }
+
+    .line1-kampel {
+        width: 93%;
+    }
+
+}
