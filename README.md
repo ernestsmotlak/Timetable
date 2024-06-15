@@ -17,12 +17,12 @@ Timetable website for bus transports in Koper.
 
 ##### API
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.10.07.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.10.07.png" width="600px"</img> 
 </div>
 
 ##### API Linija1 Koper
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.10.44.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.10.44.png" width="600px"</img> 
 </div>
 
 ---
@@ -33,27 +33,27 @@ Timetable website for bus transports in Koper.
 
 ##### Landing page
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 12.51.03.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 12.51.03.png" width="600px"</img> 
 </div>
 
 ##### The user chooses a bus line
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 12.51.25.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 12.51.25.png" width="600px"</img> 
 </div>
 
 ##### Example of a bus line
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 12.51.40.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 12.51.40.png" width="600px"</img> 
 </div>
 
 ##### Another example of a bus line
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 12.52.42.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 12.52.42.png" width="600px"</img> 
 </div>
 
 ##### Upon choosing the entry and exit bus stations, the arrival times are shown
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 12.52.32.png" width="600px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 12.52.32.png" width="600px"</img> 
 </div>
 
 ---
@@ -62,27 +62,27 @@ Timetable website for bus transports in Koper.
 
 ##### Landing page
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.29.39.png" width="300px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.29.39.png" width="300px"</img> 
 </div>
 
 ##### Example of opening 'Linija2'
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.30.45.png" width="300px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.30.45.png" width="300px"</img> 
 </div>
 
 ##### Linija2
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.30.54.png" width="300px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.30.54.png" width="300px"</img> 
 </div>
 
 ##### Picking the entry and exit station on Linija2
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.31.15.png" width="300px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.31.15.png" width="300px"</img> 
 </div>
 
 ##### Picking the entry and exit station on Linija8
 <div align="center">
-    <img src="Screenshots/Screenshot 2024-06-15 at 13.31.54.png" width="300px"</img> 
+    <img src="tt/Screenshots/Screenshot 2024-06-15 at 13.31.54.png" width="300px"</img> 
 </div>
 
 ---
