@@ -2,16 +2,10 @@
 
 [Frontend available here](http://84.247.184.37:3002/)
 
-[API available here](http://84.247.184.37:3001/)
-
 Timetable website for bus transports in Koper.
 
 ### Made with React, Bootstrap, and Node.js
----
-### How to run
- - Run the app.js in the 'Urniki' folder.
- - Run the React app inside of the 'tt' folder. 
----
+
 ## Screenshots
 
 ### Backend
